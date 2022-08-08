@@ -1,0 +1,11 @@
+@          ___          @       
+@ @        , ,        @ @       
+@@@ @  &@@@@@@@@@  @@ @ @    Game : Perfect number
+@@                     @@    Coded by : Hitoki   
+@                       @       
+@     @           @     @       
+@      @         @      @    You have to set both limit,
+@@.                   (@@    and find the secret number!   
+    @@*           @@@        don't worry you'll find it easily !   
+        @@     @#            Have fun ! \( * v * #)/   
+           *@                    
