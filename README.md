@@ -5,10 +5,6 @@ Just a python terminal-based game !
 
 I made this because i had nothing to do...
 
-it's a simple game !
-
-the rule are explained in "rules.txt" (they'll show up when you run the code)
-
 # How to play :
 
 Open CMD by doing win + r
