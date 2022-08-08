@@ -1,6 +1,8 @@
 # Perfect-Number
 Just a python terminal-based game !
 
+![Image](https://i.imgur.com/4vUUad4.png)
+
 I made this because i had nothing to do...
 
 it's a simple game !
