@@ -30,3 +30,11 @@ Import used :
 -Os
 
 -Termcolor
+
+# If you get an error :
+
+if you got an error like : MODULE_NOT_FOUND 
+
+Try to run in cmd : pip install termcolor
+
+if you got any other error let me know !
