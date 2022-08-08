@@ -11,7 +11,7 @@ the rule are explained in "rules.txt" (they'll show up when you run the code)
 
 # How to play :
 
-Open CMD by doing ctrl + r
+Open CMD by doing win + r
 
 type : "CMD" and ENTER
 
