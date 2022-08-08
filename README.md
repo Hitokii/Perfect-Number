@@ -22,6 +22,7 @@ type : "py game.py"
 /HAVE FUN\
 
 Import used : 
+
 -Random
 
 -Time
